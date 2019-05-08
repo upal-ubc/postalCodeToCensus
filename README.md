@@ -17,3 +17,5 @@ Then enter the full file path for your .CSV file containing postal codes to be c
 |---|
 |V6T1Z1|
 |...|
+
+For processing large numbers of postal codes, you should optimize the code.
