@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  7 21:35:23 2019
+Author: Rohan Nuttall
+Title: Postal Code to Census Converter
+Date: May 7th, 2019
 
-@author: rohannuttall
+
 """
 
 import pandas as pd 
